@@ -1,1 +1,2 @@
 - I am Ian Zheng, currently a junior at Johns Hopkins University majoring in computer science and economics
+Updated 2026.06. Ian Zheng gradutaed and is building something now
